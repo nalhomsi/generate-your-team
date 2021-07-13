@@ -6,7 +6,7 @@ This profile generator is a node based application. Before running, the user mus
 
 Below is the link to a video of the app in action:
 
-https://streamable.com/3irlly
+https://youtu.be/aCb8KPh-73o
 
 An HTML file with team member cards will be created once all team info has been entered. Below is a screenshot of the company page:
 
