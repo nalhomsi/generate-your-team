@@ -16,3 +16,6 @@ An HTML file with team member cards will be created once all team info has been 
 
 # Techniques and Technologies Used
 The app is run using Node.js and Inquirer and was created using Object-Oriented Programming.
+
+
+Repository: nalhomsi/generate-your-team
