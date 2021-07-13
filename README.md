@@ -1,4 +1,4 @@
-# Team-Profile-Generator
+# Generate-your-team
 Profile generator for teams
 
 # Project Description
