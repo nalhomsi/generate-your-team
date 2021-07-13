@@ -10,7 +10,7 @@ https://streamable.com/3irlly
 
 An HTML file with team member cards will be created once all team info has been entered. Below is a screenshot of the company page:
 
-![team webpage example](https://user-images.githubusercontent.com/80538653/125163179-f4c7b600-e159-11eb-9f09-ce83a7c2a6da.jpg)
+![example](https://user-images.githubusercontent.com/80538653/125536348-67e16457-5daf-439d-8021-9678b03b5a69.jpg)
 
 
 # Techniques and Technologies Used
